@@ -1,0 +1,26 @@
+[
+    {
+        "Nama": "Fesal",
+        "NIM": "11111",
+        "Mata Kuliah": "Dasar Pemrograman",
+        "Nilai": 85
+    },
+    {
+        "Nama": "Reja",
+        "NIM": "22222",
+        "Mata Kuliah": "Matematika",
+        "Nilai": 90
+    },
+    {
+        "Nama": "Ajiz",
+        "NIM": "33333",
+        "Mata Kuliah": "Bing",
+        "Nilai": 95
+    },
+    {
+        "Nama": "Faiz",
+        "NIM": "44444",
+        "Mata Kuliah": "PKN",
+        "Nilai": 98
+    }
+]
